@@ -1,0 +1,3 @@
+# OpenCV laboratory
+
+## Propósitos con fines de aprendizaje... 
