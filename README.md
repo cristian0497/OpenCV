@@ -4,10 +4,10 @@ Hola a todos, bienvenido al módulo de ejemplos de OpenCV, una potente librería
 
 ### Usaremos Python3 versión 3.8
 > Desarrollo:
-> ## Cristian Hurtado Diaz
+> ##### Cristian Hurtado Diaz
 > Desarrollador de Software, Tecnólogo Electrónica Industrial, Máster Inteligencia Atificial
-> ### `email`: cristian04.97@hotmail.com
-> ### `Linkedin`: [Cristian Diaz](https://www.linkedin.com/in/cristian-diaz-software-engineer/) 
+> ##### `email`: cristian04.97@hotmail.com
+> ##### `Linkedin`: [Cristian Diaz](https://www.linkedin.com/in/cristian-diaz-software-engineer/) 
 
 ---
 ## Preparación de ambiente:
@@ -33,7 +33,7 @@ esto correrá el script y tendremos nuestras librerías instaladas.
 ## > Introducción OpenCV
 En este módulo, crearemos figuras comunes sobre un render de openCV.
 
-[OpenCV_introduction.py](./openCV_introduction.py)
+[openCV_introduction.py](./openCV_introduction.py)
 
 command:
 
