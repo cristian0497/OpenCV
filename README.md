@@ -60,3 +60,19 @@ lo que genera:
 | ![Alt Text](/images/roya_detection/detections.png) | ![Alt text](/images/roya_detection/original_detected.png) |
 
 existen diversas aplicaciones industriales en los que el análisis de imágenes se aplica en el proceso, detectores de calidad de fábricas, procesos de análisis de productos, detección de enfermedades y más usos.
+
+## > Análisis de Histogramas
+Los histogramas son un conjunto de información serial que buca representar un comportamiento o patron basado en una variable de relación continua, por ejemplo podemos determinar la cantidad precisa de píxeles en una escala establecida de 0 a 255, que son todos los valores posibles para un tipo de 8 bits, y asi determinar carácterísticas de la imagen.
+
+[monocromatic_histogram.py](./monocromatic_histogram.py)
+
+command:
+``` bash
+python3 -m monocromatic_histogram
+```
+
+lo que genera:
+
+![Alt text](./images/histograms/histogram.png)
+
+Con un histograma de una imagen podemos aplicar algoritmos de procesamiento con el fin de detectar patrones como el nivel de claridad o oscuridad de una imagen, el color predominante y demás.
