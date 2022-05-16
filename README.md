@@ -43,3 +43,20 @@ python3 -m openCV_introduction
 lo que generará:
 
 ![Alt text](images/introdution.png)
+
+## > Roya Detector
+La roya, es un hongo que crece sobre algunas hojas de arbol, su color es naranja tendiendo a ser fluorecente, analicemos una imagen y detectemos este hongo.
+
+[roya_detection.py](./roya_detection.py)
+
+command:
+``` bash
+python3 -m roya_detection
+```
+lo que genera:
+
+| ![Alt text](/images/roya_detection/original_BGR.png)  | ![Alt text](/images/roya_detection/original_RGB.png) |
+|---------|---------|
+| ![Alt Text](/images/roya_detection/detections.png) | ![Alt text](/images/roya_detection/original_detected.png) |
+
+existen diversas aplicaciones industriales en los que el análisis de imágenes se aplica en el proceso, detectores de calidad de fábricas, procesos de análisis de productos, detección de enfermedades y más usos.
